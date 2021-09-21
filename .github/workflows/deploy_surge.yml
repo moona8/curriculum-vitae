@@ -29,4 +29,4 @@ jobs:
         run: npm install --global surge
 
       - name: Deploy React App to Surge
-        run: surge ./build cv-classassignment-monahanif.surge.sh --token ${{ secrets.surge-token }}
+        run: surge ./build cv-classassignment-monahanif.surge.sh --token ${{ secrets.SURGE_TOKEN_1 }}
