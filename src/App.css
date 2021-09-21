@@ -1,3 +1,21 @@
+.color{
+  color: #dc3545;
+  text-align: left;
+  padding: 10px;
+  margin: 40px;
+} 
+.cards{
+  padding: 10px;
+  margin: 40px 300px;
+  text-align: center;
+  
+}
+.align{
+  text-align: left;
+  /* padding: 10px; */
+  margin:30px 60px;
+}
+
 .App {
   text-align: center;
 }
