@@ -6,8 +6,9 @@
 } 
 .cards{
   padding: 10px;
-  margin: 40px 300px;
+  margin: 40px 30px;
   text-align: center;
+  box-shadow: 2px 2px 0 gray;
   
 }
 .align{

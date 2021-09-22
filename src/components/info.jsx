@@ -8,7 +8,7 @@ function Info(){
    return(
     <div> 
      
-      <ReactBootStrap.Card className="cards " style={{ width: 'rem' }}>
+       <ReactBootStrap.Card className="cards " style={{ width: 'rem' }}>
   <ReactBootStrap.Card.Body>
     <ReactBootStrap.Card.Title  className="color" id="About">About Me</ReactBootStrap.Card.Title>
     <ReactBootStrap.Card.Text>
